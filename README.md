@@ -1,5 +1,8 @@
 # Setup and usage description for Studies protocol to uplaod endpoint assay data
 
+## Setup
+* Setup as a notebook type protocol and link to a form on Browser.
+
 ## Usage
 * Maintain colunmn order as in the template.xlsx file.
 * Create new experiment in LifeArc_endpoint_data protocol, record ELN ID in the description box.
