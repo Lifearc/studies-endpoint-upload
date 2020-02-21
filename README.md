@@ -28,7 +28,9 @@
 * result_numeric - numerical value of the assay result.
 * (R) result_alpha - full result value.
 * result_unit - unit of the result value.
-* comments - any other relevant information e.g. conditions, concentrations etc.
+* ligand_conc - ligand concentration and units e.g. 10 uM.
+* time_step - time after which assay was recordded e.g. 10 min.
+* comments - any other relevant information e.g. conditions, substrate concentrations etc.
 * (R) creation_date - date of the assay.
 * study_id - in-house project identifier associated with the assay.
 * data_source - origin the records e.g. collaborator, vendor names. If in-house leave empty or record as LifeArc.
