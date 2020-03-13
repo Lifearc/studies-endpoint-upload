@@ -3,6 +3,7 @@
 ## Usage
 * Data submission must be in .xlsx or .csv formats.
 * Use the [template](template.xlsx) file to fill in your submission and maintain the column order at all times.
+* You can refer to [this](example_submission.xlsx) file for an example submission.
 * Create new experiment in Endpoint Data protocol, type in a name and description.
 * In Data Upload section click on '+' to upload the data.
 * Check if your browser is not blocking pop up for processing script selection (applies for first time users of the protocol).
