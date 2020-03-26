@@ -19,11 +19,11 @@
 
 1. Upload any other relevant associated files or notes.
 
-1. *Complete & Countersign* the experiment in Studies once finished with the submission to make it available to other Browser forms.
+1. *Complete & Countersign* the experiment in Studies once finished with the submission to make it available elsewhere.
 
    :warning: Different experimental runs must be submitted as separate *Studies* experiments instead of mashing submission up into one.
 
-:duck: You can remove data by deleting the uploaded document. The data associated will get removed from the system too.
+:duck: You can remove data by deleting the uploaded document. The associated data will get removed from the system too.
 
 ## :bulb: Template column description
 
