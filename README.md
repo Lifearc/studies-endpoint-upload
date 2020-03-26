@@ -15,15 +15,15 @@
 <br/><br/>
    ![alt text](https://www.howtogeek.com/wp-content/uploads/2019/04/x2019-04-17_12h32_07-2.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.TOnKYPJvpu.png)
 
-1. Review if data is parsed correctly and approve.
+1. *Review* if data is parsed correctly and approve.
 
 1. Upload any other relevant associated files or notes.
 
-1. Complete & Countersign the experiment in *Studies* once finished with the submission to make it available to other Browser forms.
+1. *Complete & Countersign* the experiment in Studies once finished with the submission to make it available to other Browser forms.
 
    :warning: Different experimental runs must be submitted as separate *Studies* experiments instead of mashing submission up into one.
 
-:duck: You can remove the data by deleting the uploaded document. The data associated will get removed from the system too.
+:duck: You can remove data by deleting the uploaded document. The data associated will get removed from the system too.
 
 ## :bulb: Template column description
 
