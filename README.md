@@ -19,11 +19,11 @@
 
 1. Upload any other relevant associated files or notes.
 
-1. Complete the experiment in *Studies* once finished with the submission to make it available to other Browser forms.
+1. Complete & Countersign the experiment in *Studies* once finished with the submission to make it available to other Browser forms.
 
    :warning: Different experimental runs must be submitted as separate *Studies* experiments instead of mashing submission up into one.
 
-You can delete the submission by deleting the associated document. The data associated will get removed from the system too.
+:duck: You can remove the data by deleting the uploaded document. The data associated will get removed from the system too.
 
 ## :bulb: Template column description
 
