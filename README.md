@@ -1,4 +1,4 @@
-# :squirrel:Setup and usage description for Studies protocol to upload endpoint assay data:squirrel:
+# Setup and usage description for Studies protocol to upload endpoint assay data:squirrel:
 
 ## :floppy_disk:Downloads
 * [Template](template.xlsx)
@@ -6,14 +6,15 @@
 
 ## :zap: Usage
 * Data submission must be in .xlsx or .csv formats.
-* :one:Use the template file to fill in your submission. Take care to preserve the column order.
-* :two:Create new experiment in Endpoint Data protocol, type in a name and a description.
-* :three:In the 'Data Upload' section click on '+' to upload the data.
+* :one: Use the template file to fill in your submission. Take care to preserve the column order.
+* :two: Create new experiment in Endpoint Data protocol, type in a name and a description.
+* :three: In the 'Data Upload' section click on '+' to upload the data.
 * :warning:Check if your browser is not blocking the pop up for (applies for first time users of the protocol).
+<br/><br/>
 ![alt text](https://www.howtogeek.com/wp-content/uploads/2019/04/x2019-04-17_12h32_07-2.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.TOnKYPJvpu.png)
-* :four:Review if data is parsed correctly and approve.
+* :four: Review if data is parsed correctly and approve.
 * Upload any other relevant associated files or notes.
-* :five:Complete the experiment in Studies once finished with the submission to make it available to other Browser forms.
+* :five: Complete the experiment in Studies once finished with the submission to make it available to other Browser forms.
 * :warning: Different experimental runs must be submitted as separate Studies experiments instead of mashing submission up into one.
 * You can delete the submission by deleting the associated document. The data associated will get removed from the system too.
 
