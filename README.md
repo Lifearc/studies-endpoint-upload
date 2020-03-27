@@ -31,7 +31,7 @@
 | -----------: | ----------------- | :----------: |
 | `sample_id` | an identifier for a sample tested e.g. compound ID | :heavy_exclamation_mark: |
 | `sample_batch` | sample batch number. You should always record batch ID for a compound or biological entity. The only exception can be sequence expressions and can be recorded as 0  | :heavy_exclamation_mark: |
-| `target` | the name of the target. In case of ADME assay recorded as ADME, if it's a cell line - record it here | :heavy_exclamation_mark: |
+| `target` | the name of the target for the data point. In case of a counter-screen, record a counter-screen target and not a project target. In case of an ADME assay recorded as ADME, if it's a cell line - record it here | :heavy_exclamation_mark: |
 | `assay_name` | name of the assay or protocol | :heavy_exclamation_mark: |
 | `assay_type` | type/category of the assay | :heavy_exclamation_mark: |
 | `result_type` | result type e.g. IC50, Primary Screen | :heavy_exclamation_mark: |
