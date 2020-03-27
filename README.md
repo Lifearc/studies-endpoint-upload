@@ -48,7 +48,7 @@
 | `result_numeric` | numerical value of the assay result |  🤔 |
 | `result_unit` | unit of the result value. In case of micro notation just use regular 'u' instead |  🤔 |
 | `ligand_conc` | ligand concentration and units e.g. 10 uM |  🤔 |
-| `time_step` | time after which assay was recordded e.g. 10 min |  🤔 |
+| `time_step` | time after which assay was recorded e.g. 10 min |  🤔 |
 | `comments` | any other relevant information e.g. conditions, substrate concentrations etc |  🤔 |
 | `study_id` | in-house project identifier associated with the assay |  🤔 |
 
