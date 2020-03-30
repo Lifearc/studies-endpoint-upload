@@ -41,9 +41,9 @@
 | `eln_id` | ELN ID to link experiment with ELN records. Should be always applicable for in-house experiments | 🤔 |
 | `test_id` | a test ID of an assay. Used to distinguish between different repeated runs, especially if done on the same date | 🤔 |
 | `study_type` | type of the study assay is associated with e.g. KINASE or ADME or PROTEIN-PROTEIN INTERACTION | 🤔 | 
-| `gene` | if target is a protein or protein complex please specify a respective gene(s), separated by a dash e.g. JAK2-TYK2 | 🤔  |
+| `gene` | if target is a protein or complex or interaction please specify a respective gene(s), separated by a dash e.g. JAK2-TYK2. Please refer to [UniProt](https://www.uniprot.org/) for official gene names | 🤔  |
 | `organism` | specify target species in Latin |  🤔 |
-| `cell_line` | if cell based assay specify cell line used. In case target is a cell line you end up recording cell line twice. You can refer to ATCC for offical names of cell lines | 🤔  |
+| `cell_line` | if cell based assay specify cell line used. In case target is a cell line you end up recording cell line twice. You can refer to [ATCC](https://www.lgcstandards-atcc.org/) for offical names of cell lines | 🤔  |
 | `result_modifier` | modifier describing numerical result e.g. '>' or '=' |  🤔 |
 | `result_numeric` | numerical value of the assay result |  🤔 |
 | `result_unit` | unit of the result value. In case of micro notation just use regular 'u' instead |  🤔 |
