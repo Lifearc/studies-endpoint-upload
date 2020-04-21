@@ -1,4 +1,4 @@
-# Setup and usage description for Studies protocol to upload endpoint assay data:squirrel:
+# Setup and usage description for Studies protocol to upload endpoint assay data:shipit:
 
 ## :floppy_disk: Downloads
 * [Template](template.xlsx)
@@ -27,20 +27,22 @@
 
 ## :bulb: Template column description
 
+* If any of the required (:heavy_exclamation_mark:) columns are missing the submission is automatically rejected.
+
 | Field | Description | Required |
 | -----------: | ----------------- | :----------: |
-| `sample_id` | an identifier for a sample tested e.g. compound ID | :heavy_exclamation_mark: |
+| `sample_id` | identifier for a sample tested e.g. compound ID | :heavy_exclamation_mark: |
 | `sample_batch` | sample batch number. You should always record batch ID for a compound or biological entity. The only exception can be sequence expressions and can be recorded as 0  | :heavy_exclamation_mark: |
 | `target` | the name of the target for the data point. In case of a counter-screen, record a counter-screen target and not a project target. In case of an ADME assay recorded as ADME, if it's a cell line - record it here | :heavy_exclamation_mark: |
 | `assay_name` | name of the assay or protocol | :heavy_exclamation_mark: |
 | `assay_type` | type/category of the assay | :heavy_exclamation_mark: |
 | `result_type` | result type e.g. IC50, Primary Screen | :heavy_exclamation_mark: |
 | `result_alpha` | full result value. This should be a combination of result_modifier and result_numeric. In case a modifier is absent result_numeric will be the same as result_alpha | :heavy_exclamation_mark: |
-| `creation_date` | date of the assay | :heavy_exclamation_mark: |
+| `creation_date` | date the assay was done | :heavy_exclamation_mark: |
 | `data_source` | origin of the records e.g. collaborator, vendor names, in-house | :heavy_exclamation_mark: |
 | `eln_id` | ELN ID to link experiment with ELN records. Should be always applicable for in-house experiments | 🤔 |
-| `test_id` | a test ID of an assay. Used to distinguish between different repeated runs, especially if done on the same date | 🤔 |
-| `study_type` | type of the study assay is associated with e.g. KINASE or ADME or PROTEIN-PROTEIN INTERACTION | 🤔 | 
+| `test_id` | test ID of an assay. Used to distinguish between different repeated runs, especially if done on the same date | 🤔 |
+| `study_type` | type of the study the assay is associated with e.g. KINASE or ADME or PROTEIN-PROTEIN INTERACTION | 🤔 |
 | `gene` | if target is a protein or complex or interaction please specify a respective gene(s), separated by a dash e.g. JAK2-TYK2. Please refer to [UniProt](https://www.uniprot.org/) for official gene names | 🤔  |
 | `organism` | specify target species in Latin |  🤔 |
 | `cell_line` | if cell based assay specify cell line used. In case target is a cell line you end up recording cell line twice. You can refer to [ATCC](https://www.lgcstandards-atcc.org/) for offical names of cell lines | 🤔  |
